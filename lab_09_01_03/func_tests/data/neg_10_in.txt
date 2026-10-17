@@ -1,0 +1,7 @@
+3
+bread
+0
+apple
+0
+pineapple
+0

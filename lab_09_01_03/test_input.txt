@@ -1,0 +1,12 @@
+5
+milk
+21
+banana 
+21
+mayonnaise
+43
+mango
+43
+kiwi
+43
+

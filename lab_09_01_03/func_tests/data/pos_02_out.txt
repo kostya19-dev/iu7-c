@@ -1,0 +1,6 @@
+apple
+34
+banana 
+40
+bread
+53

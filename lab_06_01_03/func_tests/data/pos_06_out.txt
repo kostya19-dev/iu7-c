@@ -1,0 +1,16 @@
+milk
+49
+fruit
+40
+watermellon
+53
+cake
+34
+coffee
+43
+mayonnaise
+16
+cacao
+5
+cheese
+90

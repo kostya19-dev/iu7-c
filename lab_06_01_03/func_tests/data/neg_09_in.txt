@@ -1,0 +1,7 @@
+3
+bread
+-888
+apple 
+-97
+pineapple
+-56

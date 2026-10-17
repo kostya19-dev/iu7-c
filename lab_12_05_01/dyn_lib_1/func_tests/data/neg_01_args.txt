@@ -1,0 +1,1 @@
+./func_tests/data/neg_01_FILE_NOT_FOUND.txt ./func_tests/data/neg_01_out.txt

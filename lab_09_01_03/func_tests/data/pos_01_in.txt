@@ -1,0 +1,11 @@
+5
+apple
+100
+orange-juice
+88
+mushroom
+62
+fruit
+50
+banana 
+40

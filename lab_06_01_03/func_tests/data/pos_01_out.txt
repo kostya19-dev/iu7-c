@@ -1,0 +1,6 @@
+mushroom
+62
+fruit
+50
+banana 
+40

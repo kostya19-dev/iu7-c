@@ -1,0 +1,11 @@
+5
+apple
+34
+banana 
+40
+bread
+53
+cake
+88
+watermellon
+100

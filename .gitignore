@@ -1,0 +1,14 @@
+*.o
+*.exe
+*.gcda
+*.gcno
+*.gcov
+*.out
+*.a
+*.so
+app
+main
+coverage/
+__pycache__/
+.vscode/
+.idea/
